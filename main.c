@@ -1,4 +1,5 @@
 #include <stdio.h>
+printf("Message de l'etudiant B\n");
 
 float moyenne(int a, int b) {
     return (a + b) / 2.0f;
