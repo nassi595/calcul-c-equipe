@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+printf("Message concurrent sur main\n");
 float moyenne(int a, int b) {
     return (a + b) / 2.0f;
 }
