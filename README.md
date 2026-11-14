@@ -40,5 +40,3 @@ gcc main.c -o calcul
 ## Pull request fusionnée
 https://github.com/nassi595/calcul-c-equipe/pull/1
 
-## Auteur
-BANDAKLI Nassima — compte GitHub : nassi595
